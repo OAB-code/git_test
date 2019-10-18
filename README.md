@@ -1,0 +1,1 @@
+This is Ottis' first git project!
